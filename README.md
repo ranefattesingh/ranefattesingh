@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fattesingh Rane
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Go
 - 💞️ I’m looking to collaborate on ML and Web based application
 - 📫 How to reach me ranefattesingh@gmail.com
