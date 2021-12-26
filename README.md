@@ -51,10 +51,12 @@
 ### Connect with me:
 [<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="telegram | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][instagram]
+[<img align="left" alt="telegram | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <br><br><br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ranefattesingh&theme=chartreuse-dark)](https://git.io/streak-stats)
 
 
 [twitter]: https://twitter.com/rane_fattesingh
+[linkedin]: https://www.linkedin.com/in/fattesingh-rane-5639b11ba
+[telegram]:https://t.me/ranefattesingh
