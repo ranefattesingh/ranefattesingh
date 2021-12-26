@@ -1,6 +1,6 @@
 🔭 I’m currently working on Asp.net Core and Amazon Web Services.
 <br>
-🌱 I’m currently learning Go, DS & Algo, Docker & Kubernetes.
+🌱 I’m currently mastering Go (Golang) and Engineering Fundamentals
 <br>
 👯 I’m looking to collaborate on OpenSource Go Projects.<br>
 <br>
