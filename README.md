@@ -3,7 +3,7 @@
 👯 I’m looking to collaborate on ... OpenSource Go Projects <br>
 🤔 I’m looking for help with ... Concurrency in Go <br>
 💬 Ask me about ... Anything <br>
-📫 How to reach me: ... Twitter <br>
+📫 How to reach me: ... Twitter, LinkedIn, Telegram <br>
 😄 Pronouns: ... He/Him <br>
 ⚡ Fun fact: ... There is no Fun Fact 😂 <br>
 
@@ -46,6 +46,12 @@
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br><br><br>
 
+
+### Connect with me:
+[<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="telegram | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][instagram]
+
+<br><br><br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ranefattesingh&theme=chartreuse-dark)](https://git.io/streak-stats)
