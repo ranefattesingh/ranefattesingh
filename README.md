@@ -76,7 +76,9 @@
     <td valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=ranefattesingh"/>
     </td>
-    <td valign="top"></td>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranefattesingh"/>
+    </td>
   </tr>
 </table>
 
