@@ -50,7 +50,7 @@
 <br><br><br>
 
 ### Connect with me:
-[<img align="left" alt="twitter | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" style="background-color: red;"/>][twitter]
+[<img align="left" alt="twitter | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg"/>][twitter]
 [<img align="left" alt="linkedin | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="telegram | Telegram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/telegram.svg" />][telegram]
 
