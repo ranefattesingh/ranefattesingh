@@ -56,17 +56,12 @@
 [<img align="left" alt="gmail | Gmail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gmail.svg" />][gmail]
 <br><br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ranefattesingh&theme=chartreuse-dark)](https://git.io/streak-stats)
-
-[![Fattesingh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranefattesingh)](https://github.com/ranefattesingh/github-readme-stats)
-
-
 <table>
   <thead>
     <tr>
-      <th>GitHub Streak</th>
-      <th>GitHub stats</th>
-      <th>GitHub Streak</th>
+      <th>Streak</th>
+      <th>Stats</th>
+      <th>Languages</th>
     </tr>
   </thead>
   <tr>
