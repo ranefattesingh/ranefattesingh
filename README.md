@@ -61,6 +61,23 @@
 [![Fattesingh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranefattesingh)](https://github.com/ranefattesingh/github-readme-stats)
 
 
+<table>
+  <thead>
+    <tr>
+      <th>GitHub Streak</th>
+      <th>GitHub stats</th>
+      <th>GitHub Streak</th>
+    </tr>
+  </thead>
+  <tr>
+    <td>
+      [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ranefattesingh&theme=chartreuse-dark)](https://git.io/streak-stats)
+    </td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+  </tr>
+</table>
+
 [twitter]: https://twitter.com/rane_fattesingh
 [linkedin]: https://www.linkedin.com/in/fattesingh-rane-5639b11ba
 [telegram]:https://t.me/ranefattesingh
