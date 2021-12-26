@@ -62,4 +62,4 @@
 [twitter]: https://twitter.com/rane_fattesingh
 [linkedin]: https://www.linkedin.com/in/fattesingh-rane-5639b11ba
 [telegram]:https://t.me/ranefattesingh
-[gmail]:ranefattesingh@gmail.com
+[gmail]:mailto:ranefattesingh@gmail.com
