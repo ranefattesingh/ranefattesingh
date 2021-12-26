@@ -1,11 +1,11 @@
-🔭 I’m currently working at ... Designway Agency
-🌱 I’m currently learning ... Golang and Computer Engineering Fundamentals
-👯 I’m looking to collaborate on ... OpenSource Go Projects
-🤔 I’m looking for help with ... Concurrency in Go
-💬 Ask me about ... Anything
-📫 How to reach me: ... Twitter
-😄 Pronouns: ... He/Him
-⚡ Fun fact: ... There is no Fun Fact 😂
+🔭 I’m currently working at ... Designway Agency <br>
+🌱 I’m currently learning ... Golang and Computer Engineering Fundamentals <br>
+👯 I’m looking to collaborate on ... OpenSource Go Projects <br>
+🤔 I’m looking for help with ... Concurrency in Go <br>
+💬 Ask me about ... Anything <br>
+📫 How to reach me: ... Twitter <br>
+😄 Pronouns: ... He/Him <br>
+⚡ Fun fact: ... There is no Fun Fact 😂 <br>
 
 ### Languages and Tools:
 
