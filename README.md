@@ -3,7 +3,7 @@
 👯 I’m looking to collaborate on ... OpenSource Go Projects <br>
 🤔 I’m looking for help with ... Concurrency in Go <br>
 💬 Ask me about ... Anything <br>
-📫 How to reach me: ... [Twitter][twitter], [LinkedIn][linkedin], [Telegram][telegram]<br>
+📫 How to reach me: ... [Twitter][twitter], [LinkedIn][linkedin], [Telegram][telegram], [Email][gmail]<br>
 😄 Pronouns: ... He/Him <br>
 ⚡ Fun fact: ... There is no Fun Fact 😂 <br>
 
