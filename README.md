@@ -81,3 +81,4 @@
 [linkedin]: https://www.linkedin.com/in/fattesingh-rane-5639b11ba
 [telegram]:https://t.me/ranefattesingh
 [gmail]:mailto:ranefattesingh@gmail.com
+[portfolio]: fatesingh.pythonanywhere.com
