@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 I am Fattesingh Rane a.k.a Sahil Rane. A Software Engineer (Since 2019) from India, Goa.
 
 - 🔭 I’m currently working on Go, Python and Java based projects.
-- 🌱 I’m currently learning Airflow DAG and Flink.
+- 🌱 I’m currently learning Apache Flink.
 - 👯 I’m looking to collaborate on backend projects.
-- 🤔 I’m looking for help with Concurrency and High Throughput Low Latency System Design.
+- 🤔 I’m looking for help with Concurrency and System Design.
 - 💬 Ask me about Anything 
-- ⚡ Fun fact: I also build tools on Mystrystack Foundation
+- ⚡ Fun fact: I also work on Frontend projects when needed.
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: <br />
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranefattesingh/)
