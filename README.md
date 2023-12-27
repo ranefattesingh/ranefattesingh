@@ -13,3 +13,8 @@ I am Fattesingh Rane a.k.a Sahil Rane. A Software Engineer (Since 2019) from Ind
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranefattesingh/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranefattesingh@gmail.com)
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@rane_fattesingh)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/ranefattesingh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/ranefattesingh/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+![](https://komarev.com/ghpvc/?username=ranefattesingh)
