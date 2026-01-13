@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with  Go concurrency and system design
 - 💬 Ask me about Anything
 - 📫 How to reach me:  <br>
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/sderohan](https://www.linkedin.com/in/ranefattesingh/)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranefattesingh/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranefattesingh@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Nothing ☹️
