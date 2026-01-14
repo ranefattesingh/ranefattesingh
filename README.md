@@ -32,7 +32,7 @@
 
 ## Learning
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Apache Beam](https://img.shields.io/badge/Apache_Beam-FD4C2E?style=for-the-badge&logo=apachebeam&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge)
+![Apache Beam](https://img.shields.io/badge/Apache_Beam-FD4C2E?style=for-the-badge&logo=apachebeam&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow)
