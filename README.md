@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Nothing ☹️
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ranefattesingh)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ranefattesingh)](https://git.io/streak-stats)
