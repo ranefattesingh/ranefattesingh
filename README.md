@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Nothing ☹️
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranefattesingh&show_icons=true)](https://github-readme-streak-stats.herokuapp.com?user=ranefattesingh)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ranefattesingh)
+
