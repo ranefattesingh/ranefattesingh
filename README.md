@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Nothing ☹️
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranefattesingh&show_icons=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranefattesingh&show_icons=true)](https://github-readme-streak-stats.herokuapp.com?user=ranefattesingh)
