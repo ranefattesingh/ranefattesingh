@@ -15,6 +15,7 @@
 ---
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranefattesingh&show_icons=true)](https://github-readme-streak-stats.herokuapp.com?user=ranefattesingh)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ranefattesingh)](https://git.io/streak-stats)
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ranefattesingh)
 
 ---
